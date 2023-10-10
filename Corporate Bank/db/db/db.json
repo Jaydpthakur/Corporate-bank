@@ -1,0 +1,1035 @@
+{
+  "costomer": [
+    {
+      "id": 1,
+      "name": "salman",
+      "number": "5353535",
+      "email": "saln@gamil.com",
+      "password": "1234"
+    },
+    {
+      "name": "vaibhav",
+      "number": "563636",
+      "email": "va@gmail.com",
+      "password": "63636",
+      "id": 2
+    },
+    {
+      "name": "sahbaj",
+      "number": "7999326675",
+      "email": "salhna@gmail.com",
+      "password": "456",
+      "id": 3
+    },
+    {
+      "name": "hgfds",
+      "number": "7999326675",
+      "email": "salhna@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "ankita",
+      "number": "1234",
+      "email": "ankita@gmail.com1234",
+      "id": 10
+    },
+    {
+      "name": "karan",
+      "number": "7999326675",
+      "email": "karan@gmail.com",
+      "password": "45",
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "name": "umar",
+      "number": "7999326675",
+      "email": "u@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "hina",
+      "number": "11",
+      "email": "h@gmail.com",
+      "password": "123",
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "name": "jj",
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "name": "GHJK",
+      "email": "HJ",
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62
+    },
+    {
+      "id": 63
+    },
+    {
+      "id": 64
+    },
+    {
+      "name": "aaa",
+      "number": "7999326675",
+      "email": "salman@gmail.com",
+      "password": "12",
+      "id": 65
+    },
+    {
+      "id": 66
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71
+    },
+    {
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "name": "dev",
+      "number": "7999326675",
+      "email": "dev@gmail.com",
+      "password": "1234",
+      "id": 74
+    },
+    {
+      "name": "mahira",
+      "number": "7999326675",
+      "email": "mahira@gmail.com",
+      "password": "1234",
+      "id": 75
+    },
+    {
+      "name": "k",
+      "number": "7999326675",
+      "email": "k@gmail.com",
+      "password": "1234",
+      "id": 76
+    },
+    {
+      "name": "kk",
+      "email": "kk@gmail.com",
+      "number": "23456",
+      "password": "1234",
+      "id": 77
+    },
+    {
+      "name": "a",
+      "number": "7999326675",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "id": 78
+    },
+    {
+      "id": 79
+    },
+    {
+      "name": "bhanu sir",
+      "number": "79993266753",
+      "email": "m@gmail.com",
+      "password": "1234",
+      "id": 80
+    },
+    {
+      "name": "bhanu sir",
+      "email": "salman@gmail.com",
+      "password": "1234",
+      "number": "7999326675",
+      "id": 81
+    },
+    {
+      "name": "irfan ahmad",
+      "email": "irfan@gmail.com",
+      "number": "7999326675",
+      "password": "12",
+      "id": 82
+    },
+    {
+      "name": "karan khan",
+      "email": "karan@gmail.com",
+      "number": "12345",
+      "password": "12",
+      "id": 83
+    },
+    {
+      "name": "maya",
+      "number": "7999326675",
+      "email": "karan@gmail.com",
+      "password": "12",
+      "id": 84
+    },
+    {
+      "name": "new",
+      "number": "1122",
+      "email": "new@gmail.com",
+      "password": "1234",
+      "id": 85
+    },
+    {
+      "name": "ranu",
+      "number": "7999326675",
+      "email": "ranu@gmail.com",
+      "password": "1234",
+      "id": 86
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "cus_id": 1,
+      "submit_amount": 3000,
+      "date": "20/08/23",
+      "withdraw_amount": 1000
+    },
+    {
+      "id": 2,
+      "cus_id": 1,
+      "submit_amount": 5000,
+      "date": "20/08/23",
+      "withdraw_amount": 1000
+    },
+    {
+      "id": 3,
+      "cus_id": 1,
+      "submit_amount": 2000,
+      "date": "20/08/23",
+      "withdraw_amount": 1000
+    },
+    {
+      "id": 4,
+      "cus_id": 2,
+      "submit_amount": 20000,
+      "date": "20/08/23",
+      "withdraw_amount": 1000
+    },
+    {
+      "id": 5,
+      "cus_id": 2,
+      "submit_amount": 100,
+      "date": "20/08/23",
+      "withdraw_amount": 7000
+    },
+    {
+      "id": 1,
+      "cus_id": 76,
+      "submit_amount": 10000,
+      "date": "20/08/23",
+      "withdraw_amount": 7000
+    },
+    {
+      "cus_id": "74",
+      "submit_amount": "10000",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 6
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": "120000",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 7
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": "1",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 8
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": "12",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 9
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": 0,
+      "date": "30/08/2023",
+      "withdraw_amount": "1233",
+      "id": 10
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": 0,
+      "date": "30/08/2023",
+      "withdraw_amount": "4111",
+      "id": 11
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": 0,
+      "date": "30/08/2023",
+      "withdraw_amount": "10000",
+      "id": 12
+    },
+    {
+      "cus_id": "75",
+      "submit_amount": 0,
+      "date": "30/08/2023",
+      "withdraw_amount": "10000",
+      "id": 13
+    },
+    {
+      "cus_id": "76",
+      "submit_amount": "1200",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 14
+    },
+    {
+      "cus_id": "76",
+      "submit_amount": 0,
+      "date": "30/08/2023",
+      "withdraw_amount": "1200",
+      "id": 15
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": "50000",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 16
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": "5",
+      "date": "30/08/2023",
+      "withdraw_amount": 0,
+      "id": 17
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "30/08/2023",
+      "withdraw_amount": "1000",
+      "id": 18
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 19
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 20
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 21
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 22
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 23
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 24
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 25
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 26
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 27
+    },
+    {
+      "cus_id": "77",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 28
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 29
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 30
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 31
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 32
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 33
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 34
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 35
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 36
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 37
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 38
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 39
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "5",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 40
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 41
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 42
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 43
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 44
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 45
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 46
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 47
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 48
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 49
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 50
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 51
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 52
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 53
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 54
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 55
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 56
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 57
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 58
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 59
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 60
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": "100",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 61
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "12",
+      "id": 62
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": "1",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 63
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "112",
+      "id": 64
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 65
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": "12",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 66
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": "12",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 67
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "1",
+      "id": 68
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": "10000",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 69
+    },
+    {
+      "cus_id": "78",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "5",
+      "id": 70
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "5",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 71
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "1",
+      "id": 72
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "5",
+      "id": 73
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "5",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 74
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "112",
+      "id": 75
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "2345678",
+      "id": 76
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "10000",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 77
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "2000000000000000000",
+      "id": 78
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "10000000000000000000000000000000000",
+      "date": "31/08/2023",
+      "withdraw_amount": 0,
+      "id": 79
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": 0,
+      "date": "31/08/2023",
+      "withdraw_amount": "10",
+      "id": 80
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "1223",
+      "date": "04/09/2023",
+      "withdraw_amount": 0,
+      "id": 81
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "5",
+      "date": "04/09/2023",
+      "withdraw_amount": 0,
+      "id": 82
+    },
+    {
+      "cus_id": "11",
+      "submit_amount": "5",
+      "date": "04/09/2023",
+      "withdraw_amount": 0,
+      "id": 83
+    },
+    {
+      "cus_id": "16",
+      "submit_amount": "10000",
+      "date": "04/09/2023",
+      "withdraw_amount": 0,
+      "id": 84
+    },
+    {
+      "cus_id": "74",
+      "submit_amount": "1100",
+      "date": "04/09/2023",
+      "withdraw_amount": 0,
+      "id": 85
+    },
+    {
+      "cus_id": "74",
+      "submit_amount": 0,
+      "date": "04/09/2023",
+      "withdraw_amount": "22",
+      "id": 86
+    },
+    {
+      "cus_id": "74",
+      "submit_amount": 0,
+      "date": "04/09/2023",
+      "withdraw_amount": "22",
+      "id": 87
+    },
+    {
+      "cus_id": "80",
+      "submit_amount": "100",
+      "date": "05/09/2023",
+      "withdraw_amount": 0,
+      "id": 88
+    },
+    {
+      "cus_id": "80",
+      "submit_amount": 0,
+      "date": "05/09/2023",
+      "withdraw_amount": "123",
+      "id": 89
+    },
+    {
+      "cus_id": "80",
+      "submit_amount": "50",
+      "date": "05/09/2023",
+      "withdraw_amount": 0,
+      "id": 90
+    },
+    {
+      "cus_id": "85",
+      "submit_amount": 0,
+      "date": "05/09/2023",
+      "withdraw_amount": "1000",
+      "id": 91
+    },
+    {
+      "cus_id": "85",
+      "submit_amount": "1000000000000",
+      "date": "05/09/2023",
+      "withdraw_amount": 0,
+      "id": 92
+    },
+    {
+      "cus_id": "85",
+      "submit_amount": 0,
+      "date": "06/09/2023",
+      "withdraw_amount": "5",
+      "id": 93
+    },
+    {
+      "cus_id": "86",
+      "submit_amount": "100",
+      "date": "12/09/2023",
+      "withdraw_amount": 0,
+      "id": 94
+    },
+    {
+      "cus_id": "86",
+      "submit_amount": 0,
+      "date": "12/09/2023",
+      "withdraw_amount": "1",
+      "id": 95
+    },
+    {
+      "cus_id": "86",
+      "submit_amount": "10",
+      "date": "12/09/2023",
+      "withdraw_amount": 0,
+      "id": 96
+    },
+    {
+      "cus_id": "86",
+      "submit_amount": 0,
+      "date": "12/09/2023",
+      "withdraw_amount": "10",
+      "id": 97
+    }
+  ]
+}
